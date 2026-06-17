@@ -32,4 +32,12 @@ Você pode rodar estes códigos de duas maneiras simples:
 
 ### Opção 2: Utilizando o Node.js
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
-2. Clone este
+2. Clone este repositório ou baixe os arquivos.
+3. Abra o terminal na pasta do projeto e execute o comando:
+   ```bash
+   node nome_do_arquivo.js
+
+
+A primeira parte da atividade de 1 a 15 esta localizado no arquivo "script.js"
+A segunda parte da atividade de 16 a 20 esta localizado no arquivo "script2.js"
+
